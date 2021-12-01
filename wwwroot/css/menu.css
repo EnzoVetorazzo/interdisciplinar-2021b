@@ -1,0 +1,46 @@
+/* CSS reset */
+
+
+.agendamento {
+  width: 20%;
+  height: 50px;
+  line-height: 50px;
+  text-align:center;
+  
+  /* pura mágica */
+  position: absolute;
+  top: 40%; /* posiciona na metade da tela */
+  margin-top: -25px; /* e retrocede metade da altura */
+  left: 44%; /* posiciona na metade da tela */
+  margin-left: -100px; /* e retrocede metade da largura */
+}
+.horarios {
+  width: 20%;
+  height: 50px;
+  line-height: 50px;
+  text-align:center;
+  align:center;
+  
+  /* pura mágica */
+  position: absolute;
+  top: 50%; /* posiciona na metade da tela */
+  margin-top: -25px; /* e retrocede metade da altura */
+  left: 44%; /* posiciona na metade da tela */
+  margin-left: -100px; /* e retrocede metade da largura */
+  
+}
+.imagem {
+  width: 20%;
+  height: 50px;
+  line-height: 50px;
+  text-align:center;
+  align:center;
+  
+  /* pura mágica */
+  position: absolute;
+  top: 20%; /* posiciona na metade da tela */
+  margin-top: -25px; /* e retrocede metade da altura */
+  left: 44%; /* posiciona na metade da tela */
+  margin-left: -100px; /* e retrocede metade da largura */
+}
+

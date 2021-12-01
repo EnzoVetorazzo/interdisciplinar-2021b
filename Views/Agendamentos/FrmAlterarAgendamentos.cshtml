@@ -1,0 +1,76 @@
+@using Athletica.Models
+@model List<Servicos>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="/css/style.css" />
+    <title>Atualização de Agendamentos</title>
+</head>
+<body>
+
+@{
+    Agendamentos objAgendamentos = @ViewBag.objAgendamentos;
+
+    string data = objAgendamentos.Hora_inicio.ToString("yyyy-MM-dd");
+
+    string horario_inicio = objAgendamentos.Hora_inicio.ToShortTimeString();
+
+    string horario_fim = objAgendamentos.Hora_fim.ToShortTimeString();
+     
+}
+
+    <h1>Atualização de Agendamentos</h1>
+       <form asp-controller = "Agendamentos" asp-action = "AtualizarAgendamento" method="post">                  
+            <p>
+                <label for="inputId">Nº Identificador</label>
+                <input id="inputId" type="text" name="id" value="@objAgendamentos.Id" readonly/>
+            </p>
+           
+           <br>
+
+            <p>
+                <label for="inputSelectServicos">Serviços</label>
+                <select id="inputSelectServicos" name="servico">
+                    <option value="@objAgendamentos.CodServico"> @objAgendamentos.NomeServico </option>
+                    
+                    @foreach (var servicos in ViewBag.lstAgendamentosServicos)
+                    {
+                        <option value="@servicos.Id"> @servicos.Nome </option>
+                    } 
+                                     
+                </select>
+            </p>
+            
+            <br>
+
+            <p>
+                <label for="inputNome">Nome da pessoa</label>
+                <input id="inputNome" type="text" name="nome" value="@objAgendamentos.Nome" required="required"/>
+            </p>
+
+            <p>
+                <label for="inputData">Data</label><br>
+                <input id="inputData" type="date" name="data" value="@data" required="required"/>
+            </p>
+
+            <p>
+                <label for="">Horarário de Início</label>
+                <input id="inputHorarioInicio" type="time" name="horario_inicio"  value="@horario_inicio" required="required"/>
+            </p>
+
+            <p>
+                <label for="">Horário de Termino</label>
+                <input id="inputHorarioFim" type="time" name="horario_fim" value="@horario_fim" required="required"/>
+            </p>
+
+            <br>
+
+            <p>
+                <input type="submit" value="Atualizar" href="/Agendamentos/MeusAgendamentos"/>
+            </p>
+       </form>
+</body>
+</html>

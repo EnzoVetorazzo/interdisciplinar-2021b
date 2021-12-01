@@ -1,0 +1,42 @@
+@using Athletica.Models
+@model List<Agendamentos>
+
+<head>
+    <meta charset="UTF-8" />
+    <title></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="/css/style.css" />
+</head>
+
+<body>
+    <!--<div class="botoes">
+        <div class="imagem_agenda">
+            <img src="logo_athletica_sem_fundo-2.png" alt="Minha Figura" width="250px" height="150px">
+        </div> -->    
+    </div>
+
+        <table border="1" style='width:50%'>
+            
+                        Tabela para organizar as informaçoes que irão ser trazida do Banco de dados
+                    
+            <tr>
+                <th>Id</th>
+                <th>Nome</th>
+                @* <th>Horario</th> *@
+            </tr>
+
+            @foreach (var agenda in Model)
+            {
+                <tr>
+                    <td>
+                        @agenda.Id
+                    </td>
+                    <td>
+                        @agenda.Nome
+                    </td>
+                </tr>   
+            }
+    
+        </table> 
+    </div>
+</body>

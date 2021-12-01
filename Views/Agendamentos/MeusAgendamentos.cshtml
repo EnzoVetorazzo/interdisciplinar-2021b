@@ -1,0 +1,52 @@
+@using Athletica.Models
+@model List<Agendamentos>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="/css/style.css" />
+    <title>Meus Agendamentos</title>
+</head>
+<body>
+    <h1> Meus Agendamentos</h1>
+    <table border="1" style='width:50%'>
+            
+        <!--Tabela para organizar as informaçoes que irão ser trazida do Banco de dados--> <br><br>
+                    
+            <tr>
+                <th>Nome da Pessoa</th>
+                <th>Nome do Serviço</th>
+                <th>Horario de Início</th>
+                <th>Horario de Termino</th>
+                <th>Aterar</th>
+            </tr>         
+            
+            @foreach (Agendamentos objAgendamento in ViewBag.LstAgendamentos)
+            {
+                <tr>
+                    <td>
+                        @objAgendamento.Nome
+                    </td>
+                    <td>
+                        @objAgendamento.NomeServico
+                    </td>
+                    <td>
+                        @objAgendamento.Hora_inicio
+                    </td>
+                    <td>
+                        @objAgendamento.Hora_fim
+                    </td>
+                    <td>
+                        <a href = "FrmAlterarAgendamentos?id=@objAgendamento.Id"> Clique aqui </a>
+                    </td>
+                </tr>   
+            }
+    
+        </table>
+            <form asp-controller = "Agendamentos" asp-action = "FrmBuscarHorariosAgendados">
+                <input type="submit" value="Ir ver meus horarios"/>
+            </form>
+</body>
+</html>

@@ -1,0 +1,57 @@
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model Athletica.Models.Cliente
+
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Formulário de Registro</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="/css/style.css" />
+</head>
+
+<body>
+    <div class="container">
+        <a class="links" id="paralogin"></a>
+
+            <!--FORMULÁRIO DE CADASTRO-->
+            <div id="cadastro">
+                <form method="post" asp-controller="Cliente" asp-action="cadastrar">
+                    <h1><img src="~/image/logo_athletica_sem_fundo-2.png" alt="Minha Figura" width="250px" height="150px"></h1>
+
+                    <p>
+                        <label for="nome_cad">Seu nome</label>
+                        <input id="nome_cad" name="nome" required="required" type="text" placeholder="nome" />
+                    </p>
+
+                    <p>
+                        <label for="email_cad">Celular</label>
+                        <input id="cel" name="telefone" required="required" type="tel"
+                            placeholder="1799810-1020" />
+                    </p>
+
+                    <p>
+                        <label for="senha_cad">Sua senha</label>
+                        <input id="senha_cad" name="senha" required="required" type="password"
+                            placeholder="ex. 1234" />
+                    </p>
+
+                    <p>
+                        <label for="email_cad">Seu Email</label>
+                        <input id="email_cad" name="email" required="required" type="email"
+                            placeholder="seunome@gmail.com" />
+                    </p>
+                    <div id="algo"
+                        <p>
+                            <input type="submit" value="Cadastrar" />
+                        </p>
+                    </div>
+
+                    <p class="link">
+                        Já tem conta?
+                        <a href="/Cliente/Login"> Ir para Login </a>
+                    </p>
+                </form>
+            </div>
+        </div>
+    </div>
+</body>

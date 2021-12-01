@@ -1,0 +1,147 @@
+C:\Users\User\Desktop\Andre\Fatec\4ºSemestre\ProgramacaoOrientada_Objetos\Athletica\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\User\Desktop\Andre\Fatec\4ºSemestre\ProgramacaoOrientada_Objetos\Athletica\bin\Debug\net5.0\appsettings.json
+C:\Users\User\Desktop\Andre\Fatec\4ºSemestre\ProgramacaoOrientada_Objetos\Athletica\bin\Debug\net5.0\Athletica.exe
+C:\Users\User\Desktop\Andre\Fatec\4ºSemestre\ProgramacaoOrientada_Objetos\Athletica\bin\Debug\net5.0\Athletica.deps.json
+C:\Users\User\Desktop\Andre\Fatec\4ºSemestre\ProgramacaoOrientada_Objetos\Athletica\bin\Debug\net5.0\Athletica.runtimeconfig.json
+C:\Users\User\Desktop\Andre\Fatec\4ºSemestre\ProgramacaoOrientada_Objetos\Athletica\bin\Debug\net5.0\Athletica.runtimeconfig.dev.json
+C:\Users\User\Desktop\Andre\Fatec\4ºSemestre\ProgramacaoOrientada_Objetos\Athletica\bin\Debug\net5.0\Athletica.dll
+C:\Users\User\Desktop\Andre\Fatec\4ºSemestre\ProgramacaoOrientada_Objetos\Athletica\bin\Debug\net5.0\ref\Athletica.dll
+C:\Users\User\Desktop\Andre\Fatec\4ºSemestre\ProgramacaoOrientada_Objetos\Athletica\bin\Debug\net5.0\Athletica.pdb
+C:\Users\User\Desktop\Andre\Fatec\4ºSemestre\ProgramacaoOrientada_Objetos\Athletica\bin\Debug\net5.0\Athletica.Views.dll
+C:\Users\User\Desktop\Andre\Fatec\4ºSemestre\ProgramacaoOrientada_Objetos\Athletica\bin\Debug\net5.0\Athletica.Views.pdb
+C:\Users\User\Desktop\Andre\Fatec\4ºSemestre\ProgramacaoOrientada_Objetos\Athletica\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Andre\Fatec\4ºSemestre\ProgramacaoOrientada_Objetos\Athletica\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\Andre\Fatec\4ºSemestre\ProgramacaoOrientada_Objetos\Athletica\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\Andre\Fatec\4ºSemestre\ProgramacaoOrientada_Objetos\Athletica\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\Andre\Fatec\4ºSemestre\ProgramacaoOrientada_Objetos\Athletica\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Andre\Fatec\4ºSemestre\ProgramacaoOrientada_Objetos\Athletica\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Andre\Fatec\4ºSemestre\ProgramacaoOrientada_Objetos\Athletica\obj\Debug\net5.0\Athletica.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Andre\Fatec\4ºSemestre\ProgramacaoOrientada_Objetos\Athletica\obj\Debug\net5.0\Athletica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Andre\Fatec\4ºSemestre\ProgramacaoOrientada_Objetos\Athletica\obj\Debug\net5.0\Athletica.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Andre\Fatec\4ºSemestre\ProgramacaoOrientada_Objetos\Athletica\obj\Debug\net5.0\Athletica.AssemblyInfo.cs
+C:\Users\User\Desktop\Andre\Fatec\4ºSemestre\ProgramacaoOrientada_Objetos\Athletica\obj\Debug\net5.0\Athletica.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Andre\Fatec\4ºSemestre\ProgramacaoOrientada_Objetos\Athletica\obj\Debug\net5.0\Athletica.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\Andre\Fatec\4ºSemestre\ProgramacaoOrientada_Objetos\Athletica\obj\Debug\net5.0\Athletica.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\Andre\Fatec\4ºSemestre\ProgramacaoOrientada_Objetos\Athletica\obj\Debug\net5.0\Athletica.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\Andre\Fatec\4ºSemestre\ProgramacaoOrientada_Objetos\Athletica\obj\Debug\net5.0\staticwebassets\Athletica.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\Andre\Fatec\4ºSemestre\ProgramacaoOrientada_Objetos\Athletica\obj\Debug\net5.0\staticwebassets\Athletica.StaticWebAssets.xml
+C:\Users\User\Desktop\Andre\Fatec\4ºSemestre\ProgramacaoOrientada_Objetos\Athletica\obj\Debug\net5.0\scopedcss\bundle\Athletica.styles.css
+C:\Users\User\Desktop\Andre\Fatec\4ºSemestre\ProgramacaoOrientada_Objetos\Athletica\obj\Debug\net5.0\Athletica.TagHelpers.input.cache
+C:\Users\User\Desktop\Andre\Fatec\4ºSemestre\ProgramacaoOrientada_Objetos\Athletica\obj\Debug\net5.0\Athletica.TagHelpers.output.cache
+C:\Users\User\Desktop\Andre\Fatec\4ºSemestre\ProgramacaoOrientada_Objetos\Athletica\obj\Debug\net5.0\Athletica.RazorCoreGenerate.cache
+C:\Users\User\Desktop\Andre\Fatec\4ºSemestre\ProgramacaoOrientada_Objetos\Athletica\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\Desktop\Andre\Fatec\4ºSemestre\ProgramacaoOrientada_Objetos\Athletica\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User\Desktop\Andre\Fatec\4ºSemestre\ProgramacaoOrientada_Objetos\Athletica\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Desktop\Andre\Fatec\4ºSemestre\ProgramacaoOrientada_Objetos\Athletica\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\Andre\Fatec\4ºSemestre\ProgramacaoOrientada_Objetos\Athletica\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\Andre\Fatec\4ºSemestre\ProgramacaoOrientada_Objetos\Athletica\obj\Debug\net5.0\Athletica.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\Andre\Fatec\4ºSemestre\ProgramacaoOrientada_Objetos\Athletica\obj\Debug\net5.0\Athletica.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\Andre\Fatec\4ºSemestre\ProgramacaoOrientada_Objetos\Athletica\obj\Debug\net5.0\Athletica.Views.pdb
+C:\Users\User\Desktop\Andre\Fatec\4ºSemestre\ProgramacaoOrientada_Objetos\Athletica\obj\Debug\net5.0\Athletica.csproj.CopyComplete
+C:\Users\User\Desktop\Andre\Fatec\4ºSemestre\ProgramacaoOrientada_Objetos\Athletica\obj\Debug\net5.0\Athletica.dll
+C:\Users\User\Desktop\Andre\Fatec\4ºSemestre\ProgramacaoOrientada_Objetos\Athletica\obj\Debug\net5.0\ref\Athletica.dll
+C:\Users\User\Desktop\Andre\Fatec\4ºSemestre\ProgramacaoOrientada_Objetos\Athletica\obj\Debug\net5.0\Athletica.pdb
+C:\Users\User\Desktop\Andre\Fatec\4ºSemestre\ProgramacaoOrientada_Objetos\Athletica\obj\Debug\net5.0\Athletica.genruntimeconfig.cache
+C:\Users\User\Desktop\Andre\Fatec\4ºSemestre\ProgramacaoOrientada_Objetos\Athletica\obj\Debug\net5.0\Razor\Views\Cliente\cadastrar.cshtml.g.cs
+C:\Users\User\Desktop\Andre\Fatec\4ºSemestre\ProgramacaoOrientada_Objetos\Athletica\obj\Debug\net5.0\Razor\Views\Cliente\login.cshtml.g.cs
+C:\Users\Administrator\Documents\Fatec\4 Semestre\Inter\Athletica\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Administrator\Documents\Fatec\4 Semestre\Inter\Athletica\bin\Debug\net5.0\appsettings.json
+C:\Users\Administrator\Documents\Fatec\4 Semestre\Inter\Athletica\bin\Debug\net5.0\Athletica.exe
+C:\Users\Administrator\Documents\Fatec\4 Semestre\Inter\Athletica\bin\Debug\net5.0\Athletica.deps.json
+C:\Users\Administrator\Documents\Fatec\4 Semestre\Inter\Athletica\bin\Debug\net5.0\Athletica.runtimeconfig.json
+C:\Users\Administrator\Documents\Fatec\4 Semestre\Inter\Athletica\bin\Debug\net5.0\Athletica.runtimeconfig.dev.json
+C:\Users\Administrator\Documents\Fatec\4 Semestre\Inter\Athletica\bin\Debug\net5.0\Athletica.dll
+C:\Users\Administrator\Documents\Fatec\4 Semestre\Inter\Athletica\bin\Debug\net5.0\ref\Athletica.dll
+C:\Users\Administrator\Documents\Fatec\4 Semestre\Inter\Athletica\bin\Debug\net5.0\Athletica.pdb
+C:\Users\Administrator\Documents\Fatec\4 Semestre\Inter\Athletica\bin\Debug\net5.0\Athletica.Views.dll
+C:\Users\Administrator\Documents\Fatec\4 Semestre\Inter\Athletica\bin\Debug\net5.0\Athletica.Views.pdb
+C:\Users\Administrator\Documents\Fatec\4 Semestre\Inter\Athletica\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Administrator\Documents\Fatec\4 Semestre\Inter\Athletica\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Administrator\Documents\Fatec\4 Semestre\Inter\Athletica\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Administrator\Documents\Fatec\4 Semestre\Inter\Athletica\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Administrator\Documents\Fatec\4 Semestre\Inter\Athletica\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrator\Documents\Fatec\4 Semestre\Inter\Athletica\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrator\Documents\Fatec\4 Semestre\Inter\Athletica\obj\Debug\net5.0\Athletica.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\Fatec\4 Semestre\Inter\Athletica\obj\Debug\net5.0\Athletica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\Fatec\4 Semestre\Inter\Athletica\obj\Debug\net5.0\Athletica.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Fatec\4 Semestre\Inter\Athletica\obj\Debug\net5.0\Athletica.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Fatec\4 Semestre\Inter\Athletica\obj\Debug\net5.0\Athletica.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Fatec\4 Semestre\Inter\Athletica\obj\Debug\net5.0\Athletica.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Documents\Fatec\4 Semestre\Inter\Athletica\obj\Debug\net5.0\Athletica.RazorAssemblyInfo.cache
+C:\Users\Administrator\Documents\Fatec\4 Semestre\Inter\Athletica\obj\Debug\net5.0\Athletica.RazorAssemblyInfo.cs
+C:\Users\Administrator\Documents\Fatec\4 Semestre\Inter\Athletica\obj\Debug\net5.0\staticwebassets\Athletica.StaticWebAssets.Manifest.cache
+C:\Users\Administrator\Documents\Fatec\4 Semestre\Inter\Athletica\obj\Debug\net5.0\staticwebassets\Athletica.StaticWebAssets.xml
+C:\Users\Administrator\Documents\Fatec\4 Semestre\Inter\Athletica\obj\Debug\net5.0\scopedcss\bundle\Athletica.styles.css
+C:\Users\Administrator\Documents\Fatec\4 Semestre\Inter\Athletica\obj\Debug\net5.0\Athletica.TagHelpers.input.cache
+C:\Users\Administrator\Documents\Fatec\4 Semestre\Inter\Athletica\obj\Debug\net5.0\Athletica.TagHelpers.output.cache
+C:\Users\Administrator\Documents\Fatec\4 Semestre\Inter\Athletica\obj\Debug\net5.0\Athletica.RazorCoreGenerate.cache
+C:\Users\Administrator\Documents\Fatec\4 Semestre\Inter\Athletica\obj\Debug\net5.0\Razor\Views\Cliente\cadastrar.cshtml.g.cs
+C:\Users\Administrator\Documents\Fatec\4 Semestre\Inter\Athletica\obj\Debug\net5.0\Razor\Views\Cliente\login.cshtml.g.cs
+C:\Users\Administrator\Documents\Fatec\4 Semestre\Inter\Athletica\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Administrator\Documents\Fatec\4 Semestre\Inter\Athletica\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Administrator\Documents\Fatec\4 Semestre\Inter\Athletica\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Administrator\Documents\Fatec\4 Semestre\Inter\Athletica\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Administrator\Documents\Fatec\4 Semestre\Inter\Athletica\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Administrator\Documents\Fatec\4 Semestre\Inter\Athletica\obj\Debug\net5.0\Athletica.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\Documents\Fatec\4 Semestre\Inter\Athletica\obj\Debug\net5.0\Athletica.RazorTargetAssemblyInfo.cs
+C:\Users\Administrator\Documents\Fatec\4 Semestre\Inter\Athletica\obj\Debug\net5.0\Athletica.Views.pdb
+C:\Users\Administrator\Documents\Fatec\4 Semestre\Inter\Athletica\obj\Debug\net5.0\Athletica.csproj.CopyComplete
+C:\Users\Administrator\Documents\Fatec\4 Semestre\Inter\Athletica\obj\Debug\net5.0\Athletica.dll
+C:\Users\Administrator\Documents\Fatec\4 Semestre\Inter\Athletica\obj\Debug\net5.0\ref\Athletica.dll
+C:\Users\Administrator\Documents\Fatec\4 Semestre\Inter\Athletica\obj\Debug\net5.0\Athletica.pdb
+C:\Users\Administrator\Documents\Fatec\4 Semestre\Inter\Athletica\obj\Debug\net5.0\Athletica.genruntimeconfig.cache
+C:\Users\Administrator\Documents\Fatec\4 Semestre\Inter\Athletica\obj\Debug\net5.0\Razor\Views\Agendamentos\Agenda.cshtml.g.cs
+C:\Users\Administrator\Documents\Fatec\4 Semestre\Inter\Athletica\obj\Debug\net5.0\Razor\Views\Servicos\agendamento_Servico.cshtml.g.cs
+C:\Users\Administrator\Documents\Fatec\4 Semestre\Inter\Athletica\obj\Debug\net5.0\Razor\Views\Cliente\Menu.cshtml.g.cs
+C:\Users\Familiaa\Downloads\Inter\Inter\Athletica\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Familiaa\Downloads\Inter\Inter\Athletica\bin\Debug\net5.0\appsettings.json
+C:\Users\Familiaa\Downloads\Inter\Inter\Athletica\bin\Debug\net5.0\Athletica.exe
+C:\Users\Familiaa\Downloads\Inter\Inter\Athletica\bin\Debug\net5.0\Athletica.deps.json
+C:\Users\Familiaa\Downloads\Inter\Inter\Athletica\bin\Debug\net5.0\Athletica.runtimeconfig.json
+C:\Users\Familiaa\Downloads\Inter\Inter\Athletica\bin\Debug\net5.0\Athletica.runtimeconfig.dev.json
+C:\Users\Familiaa\Downloads\Inter\Inter\Athletica\bin\Debug\net5.0\Athletica.dll
+C:\Users\Familiaa\Downloads\Inter\Inter\Athletica\bin\Debug\net5.0\ref\Athletica.dll
+C:\Users\Familiaa\Downloads\Inter\Inter\Athletica\bin\Debug\net5.0\Athletica.pdb
+C:\Users\Familiaa\Downloads\Inter\Inter\Athletica\bin\Debug\net5.0\Athletica.Views.dll
+C:\Users\Familiaa\Downloads\Inter\Inter\Athletica\bin\Debug\net5.0\Athletica.Views.pdb
+C:\Users\Familiaa\Downloads\Inter\Inter\Athletica\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Familiaa\Downloads\Inter\Inter\Athletica\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Familiaa\Downloads\Inter\Inter\Athletica\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Familiaa\Downloads\Inter\Inter\Athletica\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Familiaa\Downloads\Inter\Inter\Athletica\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Familiaa\Downloads\Inter\Inter\Athletica\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Familiaa\Downloads\Inter\Inter\Athletica\obj\Debug\net5.0\Athletica.csproj.AssemblyReference.cache
+C:\Users\Familiaa\Downloads\Inter\Inter\Athletica\obj\Debug\net5.0\Athletica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Familiaa\Downloads\Inter\Inter\Athletica\obj\Debug\net5.0\Athletica.AssemblyInfoInputs.cache
+C:\Users\Familiaa\Downloads\Inter\Inter\Athletica\obj\Debug\net5.0\Athletica.AssemblyInfo.cs
+C:\Users\Familiaa\Downloads\Inter\Inter\Athletica\obj\Debug\net5.0\Athletica.csproj.CoreCompileInputs.cache
+C:\Users\Familiaa\Downloads\Inter\Inter\Athletica\obj\Debug\net5.0\Athletica.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Familiaa\Downloads\Inter\Inter\Athletica\obj\Debug\net5.0\Athletica.RazorAssemblyInfo.cache
+C:\Users\Familiaa\Downloads\Inter\Inter\Athletica\obj\Debug\net5.0\Athletica.RazorAssemblyInfo.cs
+C:\Users\Familiaa\Downloads\Inter\Inter\Athletica\obj\Debug\net5.0\staticwebassets\Athletica.StaticWebAssets.Manifest.cache
+C:\Users\Familiaa\Downloads\Inter\Inter\Athletica\obj\Debug\net5.0\staticwebassets\Athletica.StaticWebAssets.xml
+C:\Users\Familiaa\Downloads\Inter\Inter\Athletica\obj\Debug\net5.0\scopedcss\bundle\Athletica.styles.css
+C:\Users\Familiaa\Downloads\Inter\Inter\Athletica\obj\Debug\net5.0\Athletica.TagHelpers.input.cache
+C:\Users\Familiaa\Downloads\Inter\Inter\Athletica\obj\Debug\net5.0\Athletica.TagHelpers.output.cache
+C:\Users\Familiaa\Downloads\Inter\Inter\Athletica\obj\Debug\net5.0\Athletica.RazorCoreGenerate.cache
+C:\Users\Familiaa\Downloads\Inter\Inter\Athletica\obj\Debug\net5.0\Razor\Views\Agendamentos\Agenda.cshtml.g.cs
+C:\Users\Familiaa\Downloads\Inter\Inter\Athletica\obj\Debug\net5.0\Razor\Views\Cliente\cadastrar.cshtml.g.cs
+C:\Users\Familiaa\Downloads\Inter\Inter\Athletica\obj\Debug\net5.0\Razor\Views\Cliente\login.cshtml.g.cs
+C:\Users\Familiaa\Downloads\Inter\Inter\Athletica\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Familiaa\Downloads\Inter\Inter\Athletica\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Familiaa\Downloads\Inter\Inter\Athletica\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Familiaa\Downloads\Inter\Inter\Athletica\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Familiaa\Downloads\Inter\Inter\Athletica\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Familiaa\Downloads\Inter\Inter\Athletica\obj\Debug\net5.0\Athletica.RazorTargetAssemblyInfo.cache
+C:\Users\Familiaa\Downloads\Inter\Inter\Athletica\obj\Debug\net5.0\Athletica.RazorTargetAssemblyInfo.cs
+C:\Users\Familiaa\Downloads\Inter\Inter\Athletica\obj\Debug\net5.0\Athletica.Views.pdb
+C:\Users\Familiaa\Downloads\Inter\Inter\Athletica\obj\Debug\net5.0\Athletica.csproj.CopyComplete
+C:\Users\Familiaa\Downloads\Inter\Inter\Athletica\obj\Debug\net5.0\Athletica.dll
+C:\Users\Familiaa\Downloads\Inter\Inter\Athletica\obj\Debug\net5.0\ref\Athletica.dll
+C:\Users\Familiaa\Downloads\Inter\Inter\Athletica\obj\Debug\net5.0\Athletica.pdb
+C:\Users\Familiaa\Downloads\Inter\Inter\Athletica\obj\Debug\net5.0\Athletica.genruntimeconfig.cache
+C:\Users\Familiaa\Downloads\Inter\Inter\Athletica\obj\Debug\net5.0\Razor\Views\Cliente\Menu.cshtml.g.cs
+C:\Users\Familiaa\Downloads\Inter\Inter\Athletica\obj\Debug\net5.0\Razor\Views\Servicos\agendamento_Servico.cshtml.g.cs
+C:\Users\Familiaa\Downloads\Inter\Inter\Athletica\obj\Debug\net5.0\Razor\Views\Agendamentos\FrmBuscarHorariosAgendados.cshtml.g.cs
+C:\Users\Familiaa\Downloads\Inter\Inter\Athletica\obj\Debug\net5.0\Razor\Views\Agendamentos\MeusAgendamentos.cshtml.g.cs
+C:\Users\Familiaa\Downloads\Inter\Inter\Athletica\obj\Debug\net5.0\Razor\Views\Agendamentos\FrmAlterarAgendamentos.cshtml.g.cs

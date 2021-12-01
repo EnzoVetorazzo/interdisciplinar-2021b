@@ -1,0 +1,30 @@
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+
+<!DOCTYPE html>
+
+    <head>
+        <meta charset="UTF-8" />
+        <title>Menu</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="/css/style.css" />
+    </head>
+
+    <body>
+        <div class = "botoes">
+            <div class="imagem">
+                <img src="~/image/logo_athletica_sem_fundo-2.png" alt="Minha Figura" width="250px" height="150px">        
+            </div>
+            
+            <div class="horarios">
+                <form asp-controller = "Agendamentos" asp-action = "FrmBuscarHorariosAgendados">
+                    <input type="submit" value="Meus horarios"/>
+                </form>
+            </div>
+            <div class="agendamento">
+                <form asp-controller = "Servicos" asp-action = "agendamento_Servico">
+                    <input type="submit" value="Agendamento" />
+                </form>
+            </div>
+        </div>
+    </body>
